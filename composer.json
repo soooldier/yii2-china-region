@@ -1,0 +1,21 @@
+{
+    "name": "soooldier/yii2-china-region",
+    "description": "China regon for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","region","province","city"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "soooldier",
+            "email": "soooldier@live.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "china\\region\\": ""
+        }
+    }
+}
