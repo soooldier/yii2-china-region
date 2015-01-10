@@ -6,11 +6,13 @@ return array (
     210100 => 
     array (
       'name' => '沈阳市',
+      'parent' => '210000',
       'children' => 
       array (
         210101 => 
         array (
           'name' => '市辖区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -18,6 +20,7 @@ return array (
         210102 => 
         array (
           'name' => '和平区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -25,6 +28,7 @@ return array (
         210103 => 
         array (
           'name' => '沈河区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -32,6 +36,7 @@ return array (
         210104 => 
         array (
           'name' => '大东区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -39,6 +44,7 @@ return array (
         210105 => 
         array (
           'name' => '皇姑区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -46,6 +52,7 @@ return array (
         210106 => 
         array (
           'name' => '铁西区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -53,6 +60,7 @@ return array (
         210111 => 
         array (
           'name' => '苏家屯区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -60,6 +68,7 @@ return array (
         210112 => 
         array (
           'name' => '东陵区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -67,6 +76,7 @@ return array (
         210113 => 
         array (
           'name' => '沈北新区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -74,6 +84,7 @@ return array (
         210114 => 
         array (
           'name' => '于洪区',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -81,6 +92,7 @@ return array (
         210122 => 
         array (
           'name' => '辽中县',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -88,6 +100,7 @@ return array (
         210123 => 
         array (
           'name' => '康平县',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -95,6 +108,7 @@ return array (
         210124 => 
         array (
           'name' => '法库县',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -102,6 +116,7 @@ return array (
         210181 => 
         array (
           'name' => '新民市',
+          'parent' => '210100',
           'children' => 
           array (
           ),
@@ -111,11 +126,13 @@ return array (
     210200 => 
     array (
       'name' => '大连市',
+      'parent' => '210000',
       'children' => 
       array (
         210201 => 
         array (
           'name' => '市辖区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -123,6 +140,7 @@ return array (
         210202 => 
         array (
           'name' => '中山区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -130,6 +148,7 @@ return array (
         210203 => 
         array (
           'name' => '西岗区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -137,6 +156,7 @@ return array (
         210204 => 
         array (
           'name' => '沙河口区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -144,6 +164,7 @@ return array (
         210211 => 
         array (
           'name' => '甘井子区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -151,6 +172,7 @@ return array (
         210212 => 
         array (
           'name' => '旅顺口区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -158,6 +180,7 @@ return array (
         210213 => 
         array (
           'name' => '金州区',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -165,6 +188,7 @@ return array (
         210224 => 
         array (
           'name' => '长海县',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -172,6 +196,7 @@ return array (
         210281 => 
         array (
           'name' => '瓦房店市',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -179,6 +204,7 @@ return array (
         210282 => 
         array (
           'name' => '普兰店市',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -186,6 +212,7 @@ return array (
         210283 => 
         array (
           'name' => '庄河市',
+          'parent' => '210200',
           'children' => 
           array (
           ),
@@ -195,11 +222,13 @@ return array (
     210300 => 
     array (
       'name' => '鞍山市',
+      'parent' => '210000',
       'children' => 
       array (
         210301 => 
         array (
           'name' => '市辖区',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -207,6 +236,7 @@ return array (
         210302 => 
         array (
           'name' => '铁东区',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -214,6 +244,7 @@ return array (
         210303 => 
         array (
           'name' => '铁西区',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -221,6 +252,7 @@ return array (
         210304 => 
         array (
           'name' => '立山区',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -228,6 +260,7 @@ return array (
         210311 => 
         array (
           'name' => '千山区',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -235,6 +268,7 @@ return array (
         210321 => 
         array (
           'name' => '台安县',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -242,6 +276,7 @@ return array (
         210323 => 
         array (
           'name' => '岫岩满族自治县',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -249,6 +284,7 @@ return array (
         210381 => 
         array (
           'name' => '海城市',
+          'parent' => '210300',
           'children' => 
           array (
           ),
@@ -258,11 +294,13 @@ return array (
     210400 => 
     array (
       'name' => '抚顺市',
+      'parent' => '210000',
       'children' => 
       array (
         210401 => 
         array (
           'name' => '市辖区',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -270,6 +308,7 @@ return array (
         210402 => 
         array (
           'name' => '新抚区',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -277,6 +316,7 @@ return array (
         210403 => 
         array (
           'name' => '东洲区',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -284,6 +324,7 @@ return array (
         210404 => 
         array (
           'name' => '望花区',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -291,6 +332,7 @@ return array (
         210411 => 
         array (
           'name' => '顺城区',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -298,6 +340,7 @@ return array (
         210421 => 
         array (
           'name' => '抚顺县',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -305,6 +348,7 @@ return array (
         210422 => 
         array (
           'name' => '新宾满族自治县',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -312,6 +356,7 @@ return array (
         210423 => 
         array (
           'name' => '清原满族自治县',
+          'parent' => '210400',
           'children' => 
           array (
           ),
@@ -321,11 +366,13 @@ return array (
     210500 => 
     array (
       'name' => '本溪市',
+      'parent' => '210000',
       'children' => 
       array (
         210501 => 
         array (
           'name' => '市辖区',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -333,6 +380,7 @@ return array (
         210502 => 
         array (
           'name' => '平山区',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -340,6 +388,7 @@ return array (
         210503 => 
         array (
           'name' => '溪湖区',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -347,6 +396,7 @@ return array (
         210504 => 
         array (
           'name' => '明山区',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -354,6 +404,7 @@ return array (
         210505 => 
         array (
           'name' => '南芬区',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -361,6 +412,7 @@ return array (
         210521 => 
         array (
           'name' => '本溪满族自治县',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -368,6 +420,7 @@ return array (
         210522 => 
         array (
           'name' => '桓仁满族自治县',
+          'parent' => '210500',
           'children' => 
           array (
           ),
@@ -377,11 +430,13 @@ return array (
     210600 => 
     array (
       'name' => '丹东市',
+      'parent' => '210000',
       'children' => 
       array (
         210601 => 
         array (
           'name' => '市辖区',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -389,6 +444,7 @@ return array (
         210602 => 
         array (
           'name' => '元宝区',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -396,6 +452,7 @@ return array (
         210603 => 
         array (
           'name' => '振兴区',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -403,6 +460,7 @@ return array (
         210604 => 
         array (
           'name' => '振安区',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -410,6 +468,7 @@ return array (
         210624 => 
         array (
           'name' => '宽甸满族自治县',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -417,6 +476,7 @@ return array (
         210681 => 
         array (
           'name' => '东港市',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -424,6 +484,7 @@ return array (
         210682 => 
         array (
           'name' => '凤城市',
+          'parent' => '210600',
           'children' => 
           array (
           ),
@@ -433,11 +494,13 @@ return array (
     210700 => 
     array (
       'name' => '锦州市',
+      'parent' => '210000',
       'children' => 
       array (
         210701 => 
         array (
           'name' => '市辖区',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -445,6 +508,7 @@ return array (
         210702 => 
         array (
           'name' => '古塔区',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -452,6 +516,7 @@ return array (
         210703 => 
         array (
           'name' => '凌河区',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -459,6 +524,7 @@ return array (
         210711 => 
         array (
           'name' => '太和区',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -466,6 +532,7 @@ return array (
         210726 => 
         array (
           'name' => '黑山县',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -473,6 +540,7 @@ return array (
         210727 => 
         array (
           'name' => '义县',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -480,6 +548,7 @@ return array (
         210781 => 
         array (
           'name' => '凌海市',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -487,6 +556,7 @@ return array (
         210782 => 
         array (
           'name' => '北镇市',
+          'parent' => '210700',
           'children' => 
           array (
           ),
@@ -496,11 +566,13 @@ return array (
     210800 => 
     array (
       'name' => '营口市',
+      'parent' => '210000',
       'children' => 
       array (
         210801 => 
         array (
           'name' => '市辖区',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -508,6 +580,7 @@ return array (
         210802 => 
         array (
           'name' => '站前区',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -515,6 +588,7 @@ return array (
         210803 => 
         array (
           'name' => '西市区',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -522,6 +596,7 @@ return array (
         210804 => 
         array (
           'name' => '鲅鱼圈区',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -529,6 +604,7 @@ return array (
         210811 => 
         array (
           'name' => '老边区',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -536,6 +612,7 @@ return array (
         210881 => 
         array (
           'name' => '盖州市',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -543,6 +620,7 @@ return array (
         210882 => 
         array (
           'name' => '大石桥市',
+          'parent' => '210800',
           'children' => 
           array (
           ),
@@ -552,11 +630,13 @@ return array (
     210900 => 
     array (
       'name' => '阜新市',
+      'parent' => '210000',
       'children' => 
       array (
         210901 => 
         array (
           'name' => '市辖区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -564,6 +644,7 @@ return array (
         210902 => 
         array (
           'name' => '海州区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -571,6 +652,7 @@ return array (
         210903 => 
         array (
           'name' => '新邱区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -578,6 +660,7 @@ return array (
         210904 => 
         array (
           'name' => '太平区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -585,6 +668,7 @@ return array (
         210905 => 
         array (
           'name' => '清河门区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -592,6 +676,7 @@ return array (
         210911 => 
         array (
           'name' => '细河区',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -599,6 +684,7 @@ return array (
         210921 => 
         array (
           'name' => '阜新蒙古族自治县',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -606,6 +692,7 @@ return array (
         210922 => 
         array (
           'name' => '彰武县',
+          'parent' => '210900',
           'children' => 
           array (
           ),
@@ -615,11 +702,13 @@ return array (
     211000 => 
     array (
       'name' => '辽阳市',
+      'parent' => '210000',
       'children' => 
       array (
         211001 => 
         array (
           'name' => '市辖区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -627,6 +716,7 @@ return array (
         211002 => 
         array (
           'name' => '白塔区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -634,6 +724,7 @@ return array (
         211003 => 
         array (
           'name' => '文圣区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -641,6 +732,7 @@ return array (
         211004 => 
         array (
           'name' => '宏伟区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -648,6 +740,7 @@ return array (
         211005 => 
         array (
           'name' => '弓长岭区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -655,6 +748,7 @@ return array (
         211011 => 
         array (
           'name' => '太子河区',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -662,6 +756,7 @@ return array (
         211021 => 
         array (
           'name' => '辽阳县',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -669,6 +764,7 @@ return array (
         211081 => 
         array (
           'name' => '灯塔市',
+          'parent' => '211000',
           'children' => 
           array (
           ),
@@ -678,11 +774,13 @@ return array (
     211100 => 
     array (
       'name' => '盘锦市',
+      'parent' => '210000',
       'children' => 
       array (
         211101 => 
         array (
           'name' => '市辖区',
+          'parent' => '211100',
           'children' => 
           array (
           ),
@@ -690,6 +788,7 @@ return array (
         211102 => 
         array (
           'name' => '双台子区',
+          'parent' => '211100',
           'children' => 
           array (
           ),
@@ -697,6 +796,7 @@ return array (
         211103 => 
         array (
           'name' => '兴隆台区',
+          'parent' => '211100',
           'children' => 
           array (
           ),
@@ -704,6 +804,7 @@ return array (
         211121 => 
         array (
           'name' => '大洼县',
+          'parent' => '211100',
           'children' => 
           array (
           ),
@@ -711,6 +812,7 @@ return array (
         211122 => 
         array (
           'name' => '盘山县',
+          'parent' => '211100',
           'children' => 
           array (
           ),
@@ -720,11 +822,13 @@ return array (
     211200 => 
     array (
       'name' => '铁岭市',
+      'parent' => '210000',
       'children' => 
       array (
         211201 => 
         array (
           'name' => '市辖区',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -732,6 +836,7 @@ return array (
         211202 => 
         array (
           'name' => '银州区',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -739,6 +844,7 @@ return array (
         211204 => 
         array (
           'name' => '清河区',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -746,6 +852,7 @@ return array (
         211221 => 
         array (
           'name' => '铁岭县',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -753,6 +860,7 @@ return array (
         211223 => 
         array (
           'name' => '西丰县',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -760,6 +868,7 @@ return array (
         211224 => 
         array (
           'name' => '昌图县',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -767,6 +876,7 @@ return array (
         211281 => 
         array (
           'name' => '调兵山市',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -774,6 +884,7 @@ return array (
         211282 => 
         array (
           'name' => '开原市',
+          'parent' => '211200',
           'children' => 
           array (
           ),
@@ -783,11 +894,13 @@ return array (
     211300 => 
     array (
       'name' => '朝阳市',
+      'parent' => '210000',
       'children' => 
       array (
         211301 => 
         array (
           'name' => '市辖区',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -795,6 +908,7 @@ return array (
         211302 => 
         array (
           'name' => '双塔区',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -802,6 +916,7 @@ return array (
         211303 => 
         array (
           'name' => '龙城区',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -809,6 +924,7 @@ return array (
         211321 => 
         array (
           'name' => '朝阳县',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -816,6 +932,7 @@ return array (
         211322 => 
         array (
           'name' => '建平县',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -823,6 +940,7 @@ return array (
         211324 => 
         array (
           'name' => '喀喇沁左翼蒙古族自治县',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -830,6 +948,7 @@ return array (
         211381 => 
         array (
           'name' => '北票市',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -837,6 +956,7 @@ return array (
         211382 => 
         array (
           'name' => '凌源市',
+          'parent' => '211300',
           'children' => 
           array (
           ),
@@ -846,11 +966,13 @@ return array (
     211400 => 
     array (
       'name' => '葫芦岛市',
+      'parent' => '210000',
       'children' => 
       array (
         211401 => 
         array (
           'name' => '市辖区',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -858,6 +980,7 @@ return array (
         211402 => 
         array (
           'name' => '连山区',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -865,6 +988,7 @@ return array (
         211403 => 
         array (
           'name' => '龙港区',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -872,6 +996,7 @@ return array (
         211404 => 
         array (
           'name' => '南票区',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -879,6 +1004,7 @@ return array (
         211421 => 
         array (
           'name' => '绥中县',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -886,6 +1012,7 @@ return array (
         211422 => 
         array (
           'name' => '建昌县',
+          'parent' => '211400',
           'children' => 
           array (
           ),
@@ -893,6 +1020,7 @@ return array (
         211481 => 
         array (
           'name' => '兴城市',
+          'parent' => '211400',
           'children' => 
           array (
           ),

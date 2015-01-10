@@ -6,11 +6,13 @@ return array (
     150100 => 
     array (
       'name' => '呼和浩特市',
+      'parent' => '150000',
       'children' => 
       array (
         150101 => 
         array (
           'name' => '市辖区',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -18,6 +20,7 @@ return array (
         150102 => 
         array (
           'name' => '新城区',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -25,6 +28,7 @@ return array (
         150103 => 
         array (
           'name' => '回民区',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -32,6 +36,7 @@ return array (
         150104 => 
         array (
           'name' => '玉泉区',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -39,6 +44,7 @@ return array (
         150105 => 
         array (
           'name' => '赛罕区',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -46,6 +52,7 @@ return array (
         150121 => 
         array (
           'name' => '土默特左旗',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -53,6 +60,7 @@ return array (
         150122 => 
         array (
           'name' => '托克托县',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -60,6 +68,7 @@ return array (
         150123 => 
         array (
           'name' => '和林格尔县',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -67,6 +76,7 @@ return array (
         150124 => 
         array (
           'name' => '清水河县',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -74,6 +84,7 @@ return array (
         150125 => 
         array (
           'name' => '武川县',
+          'parent' => '150100',
           'children' => 
           array (
           ),
@@ -83,11 +94,13 @@ return array (
     150200 => 
     array (
       'name' => '包头市',
+      'parent' => '150000',
       'children' => 
       array (
         150201 => 
         array (
           'name' => '市辖区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -95,6 +108,7 @@ return array (
         150202 => 
         array (
           'name' => '东河区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -102,6 +116,7 @@ return array (
         150203 => 
         array (
           'name' => '昆都仑区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -109,6 +124,7 @@ return array (
         150204 => 
         array (
           'name' => '青山区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -116,6 +132,7 @@ return array (
         150205 => 
         array (
           'name' => '石拐区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -123,6 +140,7 @@ return array (
         150206 => 
         array (
           'name' => '白云鄂博矿区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -130,6 +148,7 @@ return array (
         150207 => 
         array (
           'name' => '九原区',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -137,6 +156,7 @@ return array (
         150221 => 
         array (
           'name' => '土默特右旗',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -144,6 +164,7 @@ return array (
         150222 => 
         array (
           'name' => '固阳县',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -151,6 +172,7 @@ return array (
         150223 => 
         array (
           'name' => '达尔罕茂明安联合旗',
+          'parent' => '150200',
           'children' => 
           array (
           ),
@@ -160,11 +182,13 @@ return array (
     150300 => 
     array (
       'name' => '乌海市',
+      'parent' => '150000',
       'children' => 
       array (
         150301 => 
         array (
           'name' => '市辖区',
+          'parent' => '150300',
           'children' => 
           array (
           ),
@@ -172,6 +196,7 @@ return array (
         150302 => 
         array (
           'name' => '海勃湾区',
+          'parent' => '150300',
           'children' => 
           array (
           ),
@@ -179,6 +204,7 @@ return array (
         150303 => 
         array (
           'name' => '海南区',
+          'parent' => '150300',
           'children' => 
           array (
           ),
@@ -186,6 +212,7 @@ return array (
         150304 => 
         array (
           'name' => '乌达区',
+          'parent' => '150300',
           'children' => 
           array (
           ),
@@ -195,11 +222,13 @@ return array (
     150400 => 
     array (
       'name' => '赤峰市',
+      'parent' => '150000',
       'children' => 
       array (
         150401 => 
         array (
           'name' => '市辖区',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -207,6 +236,7 @@ return array (
         150402 => 
         array (
           'name' => '红山区',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -214,6 +244,7 @@ return array (
         150403 => 
         array (
           'name' => '元宝山区',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -221,6 +252,7 @@ return array (
         150404 => 
         array (
           'name' => '松山区',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -228,6 +260,7 @@ return array (
         150421 => 
         array (
           'name' => '阿鲁科尔沁旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -235,6 +268,7 @@ return array (
         150422 => 
         array (
           'name' => '巴林左旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -242,6 +276,7 @@ return array (
         150423 => 
         array (
           'name' => '巴林右旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -249,6 +284,7 @@ return array (
         150424 => 
         array (
           'name' => '林西县',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -256,6 +292,7 @@ return array (
         150425 => 
         array (
           'name' => '克什克腾旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -263,6 +300,7 @@ return array (
         150426 => 
         array (
           'name' => '翁牛特旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -270,6 +308,7 @@ return array (
         150428 => 
         array (
           'name' => '喀喇沁旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -277,6 +316,7 @@ return array (
         150429 => 
         array (
           'name' => '宁城县',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -284,6 +324,7 @@ return array (
         150430 => 
         array (
           'name' => '敖汉旗',
+          'parent' => '150400',
           'children' => 
           array (
           ),
@@ -293,11 +334,13 @@ return array (
     150500 => 
     array (
       'name' => '通辽市',
+      'parent' => '150000',
       'children' => 
       array (
         150501 => 
         array (
           'name' => '市辖区',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -305,6 +348,7 @@ return array (
         150502 => 
         array (
           'name' => '科尔沁区',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -312,6 +356,7 @@ return array (
         150521 => 
         array (
           'name' => '科尔沁左翼中旗',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -319,6 +364,7 @@ return array (
         150522 => 
         array (
           'name' => '科尔沁左翼后旗',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -326,6 +372,7 @@ return array (
         150523 => 
         array (
           'name' => '开鲁县',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -333,6 +380,7 @@ return array (
         150524 => 
         array (
           'name' => '库伦旗',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -340,6 +388,7 @@ return array (
         150525 => 
         array (
           'name' => '奈曼旗',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -347,6 +396,7 @@ return array (
         150526 => 
         array (
           'name' => '扎鲁特旗',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -354,6 +404,7 @@ return array (
         150581 => 
         array (
           'name' => '霍林郭勒市',
+          'parent' => '150500',
           'children' => 
           array (
           ),
@@ -363,11 +414,13 @@ return array (
     150600 => 
     array (
       'name' => '鄂尔多斯市',
+      'parent' => '150000',
       'children' => 
       array (
         150601 => 
         array (
           'name' => '市辖区',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -375,6 +428,7 @@ return array (
         150602 => 
         array (
           'name' => '东胜区',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -382,6 +436,7 @@ return array (
         150621 => 
         array (
           'name' => '达拉特旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -389,6 +444,7 @@ return array (
         150622 => 
         array (
           'name' => '准格尔旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -396,6 +452,7 @@ return array (
         150623 => 
         array (
           'name' => '鄂托克前旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -403,6 +460,7 @@ return array (
         150624 => 
         array (
           'name' => '鄂托克旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -410,6 +468,7 @@ return array (
         150625 => 
         array (
           'name' => '杭锦旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -417,6 +476,7 @@ return array (
         150626 => 
         array (
           'name' => '乌审旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -424,6 +484,7 @@ return array (
         150627 => 
         array (
           'name' => '伊金霍洛旗',
+          'parent' => '150600',
           'children' => 
           array (
           ),
@@ -433,11 +494,13 @@ return array (
     150700 => 
     array (
       'name' => '呼伦贝尔市',
+      'parent' => '150000',
       'children' => 
       array (
         150701 => 
         array (
           'name' => '市辖区',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -445,6 +508,7 @@ return array (
         150702 => 
         array (
           'name' => '海拉尔区',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -452,6 +516,7 @@ return array (
         150703 => 
         array (
           'name' => '扎赉诺尔区',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -459,6 +524,7 @@ return array (
         150721 => 
         array (
           'name' => '阿荣旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -466,6 +532,7 @@ return array (
         150722 => 
         array (
           'name' => '莫力达瓦达斡尔族自治旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -473,6 +540,7 @@ return array (
         150723 => 
         array (
           'name' => '鄂伦春自治旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -480,6 +548,7 @@ return array (
         150724 => 
         array (
           'name' => '鄂温克族自治旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -487,6 +556,7 @@ return array (
         150725 => 
         array (
           'name' => '陈巴尔虎旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -494,6 +564,7 @@ return array (
         150726 => 
         array (
           'name' => '新巴尔虎左旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -501,6 +572,7 @@ return array (
         150727 => 
         array (
           'name' => '新巴尔虎右旗',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -508,6 +580,7 @@ return array (
         150781 => 
         array (
           'name' => '满洲里市',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -515,6 +588,7 @@ return array (
         150782 => 
         array (
           'name' => '牙克石市',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -522,6 +596,7 @@ return array (
         150783 => 
         array (
           'name' => '扎兰屯市',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -529,6 +604,7 @@ return array (
         150784 => 
         array (
           'name' => '额尔古纳市',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -536,6 +612,7 @@ return array (
         150785 => 
         array (
           'name' => '根河市',
+          'parent' => '150700',
           'children' => 
           array (
           ),
@@ -545,11 +622,13 @@ return array (
     150800 => 
     array (
       'name' => '巴彦淖尔市',
+      'parent' => '150000',
       'children' => 
       array (
         150801 => 
         array (
           'name' => '市辖区',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -557,6 +636,7 @@ return array (
         150802 => 
         array (
           'name' => '临河区',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -564,6 +644,7 @@ return array (
         150821 => 
         array (
           'name' => '五原县',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -571,6 +652,7 @@ return array (
         150822 => 
         array (
           'name' => '磴口县',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -578,6 +660,7 @@ return array (
         150823 => 
         array (
           'name' => '乌拉特前旗',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -585,6 +668,7 @@ return array (
         150824 => 
         array (
           'name' => '乌拉特中旗',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -592,6 +676,7 @@ return array (
         150825 => 
         array (
           'name' => '乌拉特后旗',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -599,6 +684,7 @@ return array (
         150826 => 
         array (
           'name' => '杭锦后旗',
+          'parent' => '150800',
           'children' => 
           array (
           ),
@@ -608,11 +694,13 @@ return array (
     150900 => 
     array (
       'name' => '乌兰察布市',
+      'parent' => '150000',
       'children' => 
       array (
         150901 => 
         array (
           'name' => '市辖区',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -620,6 +708,7 @@ return array (
         150902 => 
         array (
           'name' => '集宁区',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -627,6 +716,7 @@ return array (
         150921 => 
         array (
           'name' => '卓资县',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -634,6 +724,7 @@ return array (
         150922 => 
         array (
           'name' => '化德县',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -641,6 +732,7 @@ return array (
         150923 => 
         array (
           'name' => '商都县',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -648,6 +740,7 @@ return array (
         150924 => 
         array (
           'name' => '兴和县',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -655,6 +748,7 @@ return array (
         150925 => 
         array (
           'name' => '凉城县',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -662,6 +756,7 @@ return array (
         150926 => 
         array (
           'name' => '察哈尔右翼前旗',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -669,6 +764,7 @@ return array (
         150927 => 
         array (
           'name' => '察哈尔右翼中旗',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -676,6 +772,7 @@ return array (
         150928 => 
         array (
           'name' => '察哈尔右翼后旗',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -683,6 +780,7 @@ return array (
         150929 => 
         array (
           'name' => '四子王旗',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -690,6 +788,7 @@ return array (
         150981 => 
         array (
           'name' => '丰镇市',
+          'parent' => '150900',
           'children' => 
           array (
           ),
@@ -699,11 +798,13 @@ return array (
     152200 => 
     array (
       'name' => '兴安盟',
+      'parent' => '150000',
       'children' => 
       array (
         152201 => 
         array (
           'name' => '乌兰浩特市',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -711,6 +812,7 @@ return array (
         152202 => 
         array (
           'name' => '阿尔山市',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -718,6 +820,7 @@ return array (
         152221 => 
         array (
           'name' => '科尔沁右翼前旗',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -725,6 +828,7 @@ return array (
         152222 => 
         array (
           'name' => '科尔沁右翼中旗',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -732,6 +836,7 @@ return array (
         152223 => 
         array (
           'name' => '扎赉特旗',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -739,6 +844,7 @@ return array (
         152224 => 
         array (
           'name' => '突泉县',
+          'parent' => '152200',
           'children' => 
           array (
           ),
@@ -748,11 +854,13 @@ return array (
     152500 => 
     array (
       'name' => '锡林郭勒盟',
+      'parent' => '150000',
       'children' => 
       array (
         152501 => 
         array (
           'name' => '二连浩特市',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -760,6 +868,7 @@ return array (
         152502 => 
         array (
           'name' => '锡林浩特市',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -767,6 +876,7 @@ return array (
         152522 => 
         array (
           'name' => '阿巴嘎旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -774,6 +884,7 @@ return array (
         152523 => 
         array (
           'name' => '苏尼特左旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -781,6 +892,7 @@ return array (
         152524 => 
         array (
           'name' => '苏尼特右旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -788,6 +900,7 @@ return array (
         152525 => 
         array (
           'name' => '东乌珠穆沁旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -795,6 +908,7 @@ return array (
         152526 => 
         array (
           'name' => '西乌珠穆沁旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -802,6 +916,7 @@ return array (
         152527 => 
         array (
           'name' => '太仆寺旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -809,6 +924,7 @@ return array (
         152528 => 
         array (
           'name' => '镶黄旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -816,6 +932,7 @@ return array (
         152529 => 
         array (
           'name' => '正镶白旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -823,6 +940,7 @@ return array (
         152530 => 
         array (
           'name' => '正蓝旗',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -830,6 +948,7 @@ return array (
         152531 => 
         array (
           'name' => '多伦县',
+          'parent' => '152500',
           'children' => 
           array (
           ),
@@ -839,11 +958,13 @@ return array (
     152900 => 
     array (
       'name' => '阿拉善盟',
+      'parent' => '150000',
       'children' => 
       array (
         152921 => 
         array (
           'name' => '阿拉善左旗',
+          'parent' => '152900',
           'children' => 
           array (
           ),
@@ -851,6 +972,7 @@ return array (
         152922 => 
         array (
           'name' => '阿拉善右旗',
+          'parent' => '152900',
           'children' => 
           array (
           ),
@@ -858,6 +980,7 @@ return array (
         152923 => 
         array (
           'name' => '额济纳旗',
+          'parent' => '152900',
           'children' => 
           array (
           ),

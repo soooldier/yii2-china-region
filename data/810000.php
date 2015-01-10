@@ -4,4 +4,4 @@ return array (
   'children' => 
   array (
   ),
-):
+);

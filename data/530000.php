@@ -6,11 +6,13 @@ return array (
     530100 => 
     array (
       'name' => '昆明市',
+      'parent' => '530000',
       'children' => 
       array (
         530101 => 
         array (
           'name' => '市辖区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -18,6 +20,7 @@ return array (
         530102 => 
         array (
           'name' => '五华区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -25,6 +28,7 @@ return array (
         530103 => 
         array (
           'name' => '盘龙区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -32,6 +36,7 @@ return array (
         530111 => 
         array (
           'name' => '官渡区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -39,6 +44,7 @@ return array (
         530112 => 
         array (
           'name' => '西山区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -46,6 +52,7 @@ return array (
         530113 => 
         array (
           'name' => '东川区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -53,6 +60,7 @@ return array (
         530114 => 
         array (
           'name' => '呈贡区',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -60,6 +68,7 @@ return array (
         530122 => 
         array (
           'name' => '晋宁县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -67,6 +76,7 @@ return array (
         530124 => 
         array (
           'name' => '富民县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -74,6 +84,7 @@ return array (
         530125 => 
         array (
           'name' => '宜良县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -81,6 +92,7 @@ return array (
         530126 => 
         array (
           'name' => '石林彝族自治县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -88,6 +100,7 @@ return array (
         530127 => 
         array (
           'name' => '嵩明县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -95,6 +108,7 @@ return array (
         530128 => 
         array (
           'name' => '禄劝彝族苗族自治县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -102,6 +116,7 @@ return array (
         530129 => 
         array (
           'name' => '寻甸回族彝族自治县',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -109,6 +124,7 @@ return array (
         530181 => 
         array (
           'name' => '安宁市',
+          'parent' => '530100',
           'children' => 
           array (
           ),
@@ -118,11 +134,13 @@ return array (
     530300 => 
     array (
       'name' => '曲靖市',
+      'parent' => '530000',
       'children' => 
       array (
         530301 => 
         array (
           'name' => '市辖区',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -130,6 +148,7 @@ return array (
         530302 => 
         array (
           'name' => '麒麟区',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -137,6 +156,7 @@ return array (
         530321 => 
         array (
           'name' => '马龙县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -144,6 +164,7 @@ return array (
         530322 => 
         array (
           'name' => '陆良县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -151,6 +172,7 @@ return array (
         530323 => 
         array (
           'name' => '师宗县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -158,6 +180,7 @@ return array (
         530324 => 
         array (
           'name' => '罗平县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -165,6 +188,7 @@ return array (
         530325 => 
         array (
           'name' => '富源县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -172,6 +196,7 @@ return array (
         530326 => 
         array (
           'name' => '会泽县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -179,6 +204,7 @@ return array (
         530328 => 
         array (
           'name' => '沾益县',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -186,6 +212,7 @@ return array (
         530381 => 
         array (
           'name' => '宣威市',
+          'parent' => '530300',
           'children' => 
           array (
           ),
@@ -195,11 +222,13 @@ return array (
     530400 => 
     array (
       'name' => '玉溪市',
+      'parent' => '530000',
       'children' => 
       array (
         530401 => 
         array (
           'name' => '市辖区',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -207,6 +236,7 @@ return array (
         530402 => 
         array (
           'name' => '红塔区',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -214,6 +244,7 @@ return array (
         530421 => 
         array (
           'name' => '江川县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -221,6 +252,7 @@ return array (
         530422 => 
         array (
           'name' => '澄江县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -228,6 +260,7 @@ return array (
         530423 => 
         array (
           'name' => '通海县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -235,6 +268,7 @@ return array (
         530424 => 
         array (
           'name' => '华宁县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -242,6 +276,7 @@ return array (
         530425 => 
         array (
           'name' => '易门县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -249,6 +284,7 @@ return array (
         530426 => 
         array (
           'name' => '峨山彝族自治县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -256,6 +292,7 @@ return array (
         530427 => 
         array (
           'name' => '新平彝族傣族自治县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -263,6 +300,7 @@ return array (
         530428 => 
         array (
           'name' => '元江哈尼族彝族傣族自治县',
+          'parent' => '530400',
           'children' => 
           array (
           ),
@@ -272,11 +310,13 @@ return array (
     530500 => 
     array (
       'name' => '保山市',
+      'parent' => '530000',
       'children' => 
       array (
         530501 => 
         array (
           'name' => '市辖区',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -284,6 +324,7 @@ return array (
         530502 => 
         array (
           'name' => '隆阳区',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -291,6 +332,7 @@ return array (
         530521 => 
         array (
           'name' => '施甸县',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -298,6 +340,7 @@ return array (
         530522 => 
         array (
           'name' => '腾冲县',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -305,6 +348,7 @@ return array (
         530523 => 
         array (
           'name' => '龙陵县',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -312,6 +356,7 @@ return array (
         530524 => 
         array (
           'name' => '昌宁县',
+          'parent' => '530500',
           'children' => 
           array (
           ),
@@ -321,11 +366,13 @@ return array (
     530600 => 
     array (
       'name' => '昭通市',
+      'parent' => '530000',
       'children' => 
       array (
         530601 => 
         array (
           'name' => '市辖区',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -333,6 +380,7 @@ return array (
         530602 => 
         array (
           'name' => '昭阳区',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -340,6 +388,7 @@ return array (
         530621 => 
         array (
           'name' => '鲁甸县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -347,6 +396,7 @@ return array (
         530622 => 
         array (
           'name' => '巧家县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -354,6 +404,7 @@ return array (
         530623 => 
         array (
           'name' => '盐津县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -361,6 +412,7 @@ return array (
         530624 => 
         array (
           'name' => '大关县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -368,6 +420,7 @@ return array (
         530625 => 
         array (
           'name' => '永善县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -375,6 +428,7 @@ return array (
         530626 => 
         array (
           'name' => '绥江县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -382,6 +436,7 @@ return array (
         530627 => 
         array (
           'name' => '镇雄县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -389,6 +444,7 @@ return array (
         530628 => 
         array (
           'name' => '彝良县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -396,6 +452,7 @@ return array (
         530629 => 
         array (
           'name' => '威信县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -403,6 +460,7 @@ return array (
         530630 => 
         array (
           'name' => '水富县',
+          'parent' => '530600',
           'children' => 
           array (
           ),
@@ -412,11 +470,13 @@ return array (
     530700 => 
     array (
       'name' => '丽江市',
+      'parent' => '530000',
       'children' => 
       array (
         530701 => 
         array (
           'name' => '市辖区',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -424,6 +484,7 @@ return array (
         530702 => 
         array (
           'name' => '古城区',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -431,6 +492,7 @@ return array (
         530721 => 
         array (
           'name' => '玉龙纳西族自治县',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -438,6 +500,7 @@ return array (
         530722 => 
         array (
           'name' => '永胜县',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -445,6 +508,7 @@ return array (
         530723 => 
         array (
           'name' => '华坪县',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -452,6 +516,7 @@ return array (
         530724 => 
         array (
           'name' => '宁蒗彝族自治县',
+          'parent' => '530700',
           'children' => 
           array (
           ),
@@ -461,11 +526,13 @@ return array (
     530800 => 
     array (
       'name' => '普洱市',
+      'parent' => '530000',
       'children' => 
       array (
         530801 => 
         array (
           'name' => '市辖区',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -473,6 +540,7 @@ return array (
         530802 => 
         array (
           'name' => '思茅区',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -480,6 +548,7 @@ return array (
         530821 => 
         array (
           'name' => '宁洱哈尼族彝族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -487,6 +556,7 @@ return array (
         530822 => 
         array (
           'name' => '墨江哈尼族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -494,6 +564,7 @@ return array (
         530823 => 
         array (
           'name' => '景东彝族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -501,6 +572,7 @@ return array (
         530824 => 
         array (
           'name' => '景谷傣族彝族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -508,6 +580,7 @@ return array (
         530825 => 
         array (
           'name' => '镇沅彝族哈尼族拉祜族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -515,6 +588,7 @@ return array (
         530826 => 
         array (
           'name' => '江城哈尼族彝族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -522,6 +596,7 @@ return array (
         530827 => 
         array (
           'name' => '孟连傣族拉祜族佤族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -529,6 +604,7 @@ return array (
         530828 => 
         array (
           'name' => '澜沧拉祜族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -536,6 +612,7 @@ return array (
         530829 => 
         array (
           'name' => '西盟佤族自治县',
+          'parent' => '530800',
           'children' => 
           array (
           ),
@@ -545,11 +622,13 @@ return array (
     530900 => 
     array (
       'name' => '临沧市',
+      'parent' => '530000',
       'children' => 
       array (
         530901 => 
         array (
           'name' => '市辖区',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -557,6 +636,7 @@ return array (
         530902 => 
         array (
           'name' => '临翔区',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -564,6 +644,7 @@ return array (
         530921 => 
         array (
           'name' => '凤庆县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -571,6 +652,7 @@ return array (
         530922 => 
         array (
           'name' => '云县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -578,6 +660,7 @@ return array (
         530923 => 
         array (
           'name' => '永德县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -585,6 +668,7 @@ return array (
         530924 => 
         array (
           'name' => '镇康县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -592,6 +676,7 @@ return array (
         530925 => 
         array (
           'name' => '双江拉祜族佤族布朗族傣族自治县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -599,6 +684,7 @@ return array (
         530926 => 
         array (
           'name' => '耿马傣族佤族自治县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -606,6 +692,7 @@ return array (
         530927 => 
         array (
           'name' => '沧源佤族自治县',
+          'parent' => '530900',
           'children' => 
           array (
           ),
@@ -615,11 +702,13 @@ return array (
     532300 => 
     array (
       'name' => '楚雄彝族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         532301 => 
         array (
           'name' => '楚雄市',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -627,6 +716,7 @@ return array (
         532322 => 
         array (
           'name' => '双柏县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -634,6 +724,7 @@ return array (
         532323 => 
         array (
           'name' => '牟定县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -641,6 +732,7 @@ return array (
         532324 => 
         array (
           'name' => '南华县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -648,6 +740,7 @@ return array (
         532325 => 
         array (
           'name' => '姚安县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -655,6 +748,7 @@ return array (
         532326 => 
         array (
           'name' => '大姚县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -662,6 +756,7 @@ return array (
         532327 => 
         array (
           'name' => '永仁县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -669,6 +764,7 @@ return array (
         532328 => 
         array (
           'name' => '元谋县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -676,6 +772,7 @@ return array (
         532329 => 
         array (
           'name' => '武定县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -683,6 +780,7 @@ return array (
         532331 => 
         array (
           'name' => '禄丰县',
+          'parent' => '532300',
           'children' => 
           array (
           ),
@@ -692,11 +790,13 @@ return array (
     532500 => 
     array (
       'name' => '红河哈尼族彝族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         532501 => 
         array (
           'name' => '个旧市',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -704,6 +804,7 @@ return array (
         532502 => 
         array (
           'name' => '开远市',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -711,6 +812,7 @@ return array (
         532503 => 
         array (
           'name' => '蒙自市',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -718,6 +820,7 @@ return array (
         532504 => 
         array (
           'name' => '弥勒市',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -725,6 +828,7 @@ return array (
         532523 => 
         array (
           'name' => '屏边苗族自治县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -732,6 +836,7 @@ return array (
         532524 => 
         array (
           'name' => '建水县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -739,6 +844,7 @@ return array (
         532525 => 
         array (
           'name' => '石屏县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -746,6 +852,7 @@ return array (
         532527 => 
         array (
           'name' => '泸西县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -753,6 +860,7 @@ return array (
         532528 => 
         array (
           'name' => '元阳县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -760,6 +868,7 @@ return array (
         532529 => 
         array (
           'name' => '红河县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -767,6 +876,7 @@ return array (
         532530 => 
         array (
           'name' => '金平苗族瑶族傣族自治县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -774,6 +884,7 @@ return array (
         532531 => 
         array (
           'name' => '绿春县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -781,6 +892,7 @@ return array (
         532532 => 
         array (
           'name' => '河口瑶族自治县',
+          'parent' => '532500',
           'children' => 
           array (
           ),
@@ -790,11 +902,13 @@ return array (
     532600 => 
     array (
       'name' => '文山壮族苗族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         532601 => 
         array (
           'name' => '文山市',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -802,6 +916,7 @@ return array (
         532622 => 
         array (
           'name' => '砚山县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -809,6 +924,7 @@ return array (
         532623 => 
         array (
           'name' => '西畴县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -816,6 +932,7 @@ return array (
         532624 => 
         array (
           'name' => '麻栗坡县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -823,6 +940,7 @@ return array (
         532625 => 
         array (
           'name' => '马关县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -830,6 +948,7 @@ return array (
         532626 => 
         array (
           'name' => '丘北县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -837,6 +956,7 @@ return array (
         532627 => 
         array (
           'name' => '广南县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -844,6 +964,7 @@ return array (
         532628 => 
         array (
           'name' => '富宁县',
+          'parent' => '532600',
           'children' => 
           array (
           ),
@@ -853,11 +974,13 @@ return array (
     532800 => 
     array (
       'name' => '西双版纳傣族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         532801 => 
         array (
           'name' => '景洪市',
+          'parent' => '532800',
           'children' => 
           array (
           ),
@@ -865,6 +988,7 @@ return array (
         532822 => 
         array (
           'name' => '勐海县',
+          'parent' => '532800',
           'children' => 
           array (
           ),
@@ -872,6 +996,7 @@ return array (
         532823 => 
         array (
           'name' => '勐腊县',
+          'parent' => '532800',
           'children' => 
           array (
           ),
@@ -881,11 +1006,13 @@ return array (
     532900 => 
     array (
       'name' => '大理白族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         532901 => 
         array (
           'name' => '大理市',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -893,6 +1020,7 @@ return array (
         532922 => 
         array (
           'name' => '漾濞彝族自治县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -900,6 +1028,7 @@ return array (
         532923 => 
         array (
           'name' => '祥云县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -907,6 +1036,7 @@ return array (
         532924 => 
         array (
           'name' => '宾川县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -914,6 +1044,7 @@ return array (
         532925 => 
         array (
           'name' => '弥渡县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -921,6 +1052,7 @@ return array (
         532926 => 
         array (
           'name' => '南涧彝族自治县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -928,6 +1060,7 @@ return array (
         532927 => 
         array (
           'name' => '巍山彝族回族自治县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -935,6 +1068,7 @@ return array (
         532928 => 
         array (
           'name' => '永平县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -942,6 +1076,7 @@ return array (
         532929 => 
         array (
           'name' => '云龙县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -949,6 +1084,7 @@ return array (
         532930 => 
         array (
           'name' => '洱源县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -956,6 +1092,7 @@ return array (
         532931 => 
         array (
           'name' => '剑川县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -963,6 +1100,7 @@ return array (
         532932 => 
         array (
           'name' => '鹤庆县',
+          'parent' => '532900',
           'children' => 
           array (
           ),
@@ -972,11 +1110,13 @@ return array (
     533100 => 
     array (
       'name' => '德宏傣族景颇族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         533102 => 
         array (
           'name' => '瑞丽市',
+          'parent' => '533100',
           'children' => 
           array (
           ),
@@ -984,6 +1124,7 @@ return array (
         533103 => 
         array (
           'name' => '芒市',
+          'parent' => '533100',
           'children' => 
           array (
           ),
@@ -991,6 +1132,7 @@ return array (
         533122 => 
         array (
           'name' => '梁河县',
+          'parent' => '533100',
           'children' => 
           array (
           ),
@@ -998,6 +1140,7 @@ return array (
         533123 => 
         array (
           'name' => '盈江县',
+          'parent' => '533100',
           'children' => 
           array (
           ),
@@ -1005,6 +1148,7 @@ return array (
         533124 => 
         array (
           'name' => '陇川县',
+          'parent' => '533100',
           'children' => 
           array (
           ),
@@ -1014,11 +1158,13 @@ return array (
     533300 => 
     array (
       'name' => '怒江傈僳族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         533321 => 
         array (
           'name' => '泸水县',
+          'parent' => '533300',
           'children' => 
           array (
           ),
@@ -1026,6 +1172,7 @@ return array (
         533323 => 
         array (
           'name' => '福贡县',
+          'parent' => '533300',
           'children' => 
           array (
           ),
@@ -1033,6 +1180,7 @@ return array (
         533324 => 
         array (
           'name' => '贡山独龙族怒族自治县',
+          'parent' => '533300',
           'children' => 
           array (
           ),
@@ -1040,6 +1188,7 @@ return array (
         533325 => 
         array (
           'name' => '兰坪白族普米族自治县',
+          'parent' => '533300',
           'children' => 
           array (
           ),
@@ -1049,11 +1198,13 @@ return array (
     533400 => 
     array (
       'name' => '迪庆藏族自治州',
+      'parent' => '530000',
       'children' => 
       array (
         533421 => 
         array (
           'name' => '香格里拉县',
+          'parent' => '533400',
           'children' => 
           array (
           ),
@@ -1061,6 +1212,7 @@ return array (
         533422 => 
         array (
           'name' => '德钦县',
+          'parent' => '533400',
           'children' => 
           array (
           ),
@@ -1068,6 +1220,7 @@ return array (
         533423 => 
         array (
           'name' => '维西傈僳族自治县',
+          'parent' => '533400',
           'children' => 
           array (
           ),
