@@ -17,7 +17,7 @@ class RegionUtils
     {
         static $province;
         if(empty($province)) {
-            $path = dirname(__FILE__).DIRECTORY_SEPARATOR.'map.php';
+            $path = dirname(__FILE__).DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'map.php';
             if (!is_readable($path)) {
                 throw new \LogicException("Mapping file can not be found");
             }
@@ -59,7 +59,7 @@ class RegionUtils
      * @param string $sep
      * @return string|boolean
      */
-    public static function getRegionName($region, $sep = "")
+    public static function getRegionName($region, $sep = " ")
     {
         if(empty($region)) {
             return false;
@@ -89,7 +89,7 @@ class RegionUtils
     {
         static $regions;
         if(empty($regions[$province])) {
-            $path = dirname(__FILE__).DIRECTORY_SEPARATOR.$province.'.php';
+            $path = dirname(__FILE__).DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.$province.'.php';
             if (!is_readable($path)) {
                 return [];
             }
