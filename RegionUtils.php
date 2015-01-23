@@ -34,7 +34,7 @@ class RegionUtils
      */
     public static function getRegionChildren($region)
     {
-        if(empty($region)) {
+        if(empty($region) || false === self::checkLength($region)) {
             return false;
         }
         $province = str_pad(substr($region, 0, 2), 6, 0);
@@ -61,7 +61,7 @@ class RegionUtils
      */
     public static function getRegionName($region, $sep = " ")
     {
-        if(empty($region)) {
+        if(empty($region) || false === self::checkLength($region)) {
             return false;
         }
         $province = str_pad(substr($region, 0, 2), 6, 0);
@@ -79,6 +79,15 @@ class RegionUtils
             $regionName .= $regions['children'][$next]['children'][$region]['name'];
         }
         return $regionName;
+    }
+
+    /**
+     * @param $region
+     * @return bool
+     */
+    protected static function checkLength($region)
+    {
+        return $region > 110000 && $region <= 820000;
     }
 
     /**
