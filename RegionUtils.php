@@ -87,7 +87,7 @@ class RegionUtils
      */
     protected static function checkLength($region)
     {
-        return $region > 110000 && $region <= 820000;
+        return $region >= 110000 && $region <= 820000;
     }
 
     /**
